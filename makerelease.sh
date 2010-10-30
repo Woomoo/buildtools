@@ -81,6 +81,6 @@ fi
 
 echo
 echo "Done. If you have any bugs to report, report them against"
-echo "http://github.com/Woomoo/buildtools/issues"
+echo "http://github.com/woomoo/buildtools/issues"
 echo "Thanks!"
 echo
