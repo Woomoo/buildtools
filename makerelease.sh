@@ -5,6 +5,7 @@
 # http://hg.atheme.org/atheme/atheme/file/f94f834946aa/scripts/makerelease.sh
 # 
 # Copyright (c) 2007 atheme.org
+# Modifications copyright (c) 2010 woomoo.org
 #
 # Permission to use, copy, modify, and/or distribute this software for
 # any purpose with or without fee is hereby granted, provided that the above
